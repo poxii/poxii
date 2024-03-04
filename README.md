@@ -1,58 +1,49 @@
-# Portfolio
+<h2 align="center"> Senior Fullstack Developer </h2>
 
-Portfolio with React.js
+- 🔭 I’m currently working on MERN stack, PHP and Wordpress.
+- 🌱 I’m currently learning Python, Flutter and React Native
+- 👯 I’m looking to collaborate on Web development
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about React.js, Typescript
+- 😄 Pronouns: Football Player
 
-## Instructions for environment & development
+<h3 align="left"> Connect with me: </h3>
+<p align="left">
+    <a href="mailto:jeffreyernestbarbee@gmail.com" target="blank"><img align="center"
+            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="jeffreybarbee" height="30"
+            width="40" /></a>
 
-### Environments
+</p>
 
-- Node.js
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-### Install yarn
+<div>
+    <img margin="20" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</div>
 
-Open command prompt and type the command as follows.
+</p>
 
-```bash
-npm install --global yarn
-```
 
-### Install NPM Packages
+<p align="center"  >
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=oskarmast&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
+</p>
 
-Install NPM Packages for this project. Open Command Prompt on this project directory. And then run the following command.
-
-```bash
-yarn
-```
-
-## Development
-
-### Run as Development mode
-
-```bash
-npm start
-```
-
-### Deploy on Github pages
-
-```bash
-./deploy.github.pages.sh
-```
-
-### Run as Production mode
-
-Install `serve` npm. Please, should use only once. Because it's only for serving built files.
-
-```bash
-npm install --global serve
-```
-
-And run the below bash.
-
-```bash
-cd frontend
-rm -fR ./build/
-npm run build
-serve -s build
-```
-
-You can visit and test via http://localhost:3000
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=oskarmast&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oskarmast&theme=blue-green" alt="pratikgarai" /></td>
+   </tr>
+</table>
