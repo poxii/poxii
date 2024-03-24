@@ -1,17 +1,18 @@
-<h2 align="center">❤️ Senior Fullstack Developer❤️ </h2>
+<h2 align="center">❤️ Senior Fullstack Developer ❤️ </h2>
 
-- 🔭 I’m currently working on MERN stack, PHP and Wordpress.
-- 🌱 I’m currently learning Python, Flutter and React Native
+- 🔭 I’m currently working on MERN stack, SEO and Wordpress.
+- 🌱 I’m currently learning C/C++
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about React.js, Typescript
-- 😄 Pronouns: Football Player
+- 💬 Ask me about MERN and SEO
+- 😄 Pronouns: Tennis Player
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
-    <a href="mailto:jeffreyernestbarbee@gmail.com" target="blank"><img align="center"
-            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="jeffreybarbee" height="30"
-            width="40" /></a>
+    [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:wt9237574@gmail.com) &nbsp;
+    [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/poxii/) &nbsp;
+    [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilcox-ekenta-3456041a1/) &nbsp;
+    [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=protocolsdotio&logoColor=white)](http://danielox.github.io) &nbsp;
 
 </p>
 
