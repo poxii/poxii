@@ -1,4 +1,4 @@
-<h2 align="center">❤️ Senior Fullstack Developer ❤️ </h2>
+<h1 align="center">❤️ Senior Fullstack Developer & SEO Specialist ❤️ </h1>
 
 - 🔭 I’m currently working on MERN stack, SEO and Wordpress.
 - 🌱 I’m currently learning C/C++
