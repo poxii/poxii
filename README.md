@@ -7,14 +7,14 @@
 - 💬 Ask me about MERN and SEO
 - 😄 Pronouns: Tennis Player
 
-<h3 align="left"> Connect with me: </h3>
-<p align="left">
+<div align='center'>
+ <h3>How to contact me </h3>
     [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:wt9237574@gmail.com) &nbsp;
     [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/poxii/) &nbsp;
     [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilcox-ekenta-3456041a1/) &nbsp;
     [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=protocolsdotio&logoColor=white)](http://danielox.github.io) &nbsp;
 
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
