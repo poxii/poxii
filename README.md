@@ -7,13 +7,25 @@
 - 💬 Ask me about MERN and SEO
 - 😄 Pronouns: Tennis Player
 
-<div align='center'>
- <h3>How to contact me </h3>
-    [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:wt9237574@gmail.com) &nbsp;
-    [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/poxii/) &nbsp;
-    [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilcox-ekenta-3456041a1/) &nbsp;
-    [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=protocolsdotio&logoColor=white)](http://danielox.github.io) &nbsp;
-
+<div align="center">
+<a href="https://github.com/dedsyn4ps3" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/EddieSneed66" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ed-rutherford-nullreturn" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/eddiesneed66" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://gitlab.com/dedsyn4ps3" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/erutherford_nullreturn" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
