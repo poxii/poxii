@@ -9,11 +9,11 @@ leveraging technologies like MERN stack and WordPress in crafting visually stunn
 strong problem-solving and analytical capabilities, coupled with effective communication. Eager to bring my dynamic skill set to contribute to innovative
 projects.
 
-[![Profile views](https://komarev.com/ghpvc/?username=poxii1111&label=Profile+views&color=blue&style=flat&abbreviated=0)](#)
+[![Profile views](https://komarev.com/ghpvc/?username=poxii&label=Profile+views&color=blue&style=flat&abbreviated=0)](#)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=poxii1111&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub&row=1)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=poxii&margin-w=15&margin-h=15&no-frame=true&no-bg=true&theme=darkhub&row=1)](#)
 
-[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poxii1111&layout=compact&theme=transparent&margin-right=10)](#)
+[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poxii&layout=compact&theme=transparent&margin-right=10)](#)
 
-[![Top-langs](https://github-readme-stats.vercel.app/api/?username=poxii1111&show_icons=true&locale=en&theme=transparent)](#)
+[![Top-langs](https://github-readme-stats.vercel.app/api/?username=poxii&show_icons=true&locale=en&theme=transparent)](#)
 
