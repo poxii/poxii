@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Wilcox Ekente.
+# 👋 Hello, there~
 
-I'm Wilqox, **Senior Full Stack Developer** &amp; **SEO Specialist** 
+**Senior Full Stack Developer** &amp; **SEO Specialist** 
 
 ## About me
 
