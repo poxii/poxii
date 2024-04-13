@@ -15,5 +15,4 @@ projects.
 
 [![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poxii&layout=compact&theme=transparent&margin-right=10)](#)
 
-[![Top-langs](https://github-readme-stats.vercel.app/api/?username=poxii&show_icons=true&locale=en&theme=transparent)](#)
 
